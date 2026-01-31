@@ -59,7 +59,7 @@ header {
   background:
     url('/images/developer.png'), url('/images/header_bg.png'), #fff8f3;
   background-position:
-    top left,
+    23px 38px ,
     bottom right;
   background-repeat: no-repeat;
 }
